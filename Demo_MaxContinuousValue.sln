@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo_MaxContinuousValue", "Demo_MaxContinuousValue\Demo_MaxContinuousValue.csproj", "{CD439767-5E9A-4CC5-A2FA-9C6AB2E8D108}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CD439767-5E9A-4CC5-A2FA-9C6AB2E8D108}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD439767-5E9A-4CC5-A2FA-9C6AB2E8D108}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD439767-5E9A-4CC5-A2FA-9C6AB2E8D108}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD439767-5E9A-4CC5-A2FA-9C6AB2E8D108}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4CD8DD43-A646-4780-9873-AD85D5D62781}
+	EndGlobalSection
+EndGlobal
